@@ -1,5 +1,7 @@
 # MeraShop
 
+#Steps to run Application
+
 # to generate jar file
 mvn package
 #to start server, and run application
